@@ -1,0 +1,12 @@
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.dll.config
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.dll
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.pdb
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.csprojResolveAssemblyReference.cache
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.dll
+c:\users\pishh\documents\visual studio 2013\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.pdb
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.dll.config
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.dll
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\bin\XMLWebService.pdb
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.csprojResolveAssemblyReference.cache
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.dll
+C:\Users\pishh\Projects\XMLWebServices\XMLWebService\obj\Debug\XMLWebService.pdb

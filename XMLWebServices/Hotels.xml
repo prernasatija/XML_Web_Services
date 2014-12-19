@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.public.asu.edu/~psatija1/Hotels.xsd">
+   <Hotel Stars="****">
+      <Name>The US Grant</Name>
+      <Contact>
+         <Phone>(619) 232-3121</Phone>
+         <Email>contact@starwoodhotels.com</Email>
+      </Contact>
+      <Address BusLines= "23, 90">
+         <Number>326</Number>
+         <Street>Broadway</Street>
+         <City>San Diego</City>
+         <Zip>92101</Zip>
+      </Address>
+   </Hotel>
+  <Hotel Stars="***">
+      <Name>Courtyard Tempe Downtown</Name>
+      <Contact>
+         <Phone>(480) 966-2800</Phone>
+         <Email>contact@courtyard.com</Email>
+      </Contact>
+      <Address>
+         <Number>601</Number>
+         <Street>S South Ash Ave</Street>
+         <City>Tempe</City>
+         <Zip>85281</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="****">
+      <Name>The Fairmont San Francisco</Name>
+      <Contact>
+         <Phone>+ 1 415 772 5000</Phone>
+         <Email>sanfrancisco@fairmont.com</Email>
+      </Contact>
+      <Address BusLines= "42">
+         <Number>950</Number>
+         <Street>Mason Street</Street>
+         <City>San Francisco</City>
+         <Zip>94108</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="***">
+      <Name>The Fairmont Copley Plaza, Boston</Name>
+      <Contact>
+         <Phone>+ 1 617 267 5300</Phone>
+         <Email>boston@fairmont.com</Email>
+      </Contact>
+      <Address>
+         <Number>138</Number>
+         <Street>St. James Avenue</Street>
+         <City>Boston</City>
+         <Zip>02116</Zip>
+      </Address>
+   </Hotel>
+	<Hotel Stars="****">
+      <Name>The Park Hotel</Name>
+      <Contact>
+         <Phone>(415) 956-0445</Phone>
+         <Email>info@parkhotelsf.com</Email>
+      </Contact>
+      <Address>
+         <Number>325</Number>
+         <Street>Sutter St.</Street>
+         <City>San Francisco</City>
+         <Zip>94108</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="****">
+      <Name>Grand Hyatt San Francisco</Name>
+      <Contact>
+         <Phone>+1 415 398 1234</Phone>
+         <Email>info@hyatt.com</Email>
+      </Contact>
+      <Address BusLines= "20">
+         <Number>345</Number>
+         <Street>Stockton St.</Street>
+         <City>San Francisco</City>
+         <Zip>94108</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="***">
+      <Name>Hotel Pennsylvania</Name>
+      <Contact>
+         <Phone>212-736-5000</Phone>
+         <Email>contact@hotelpenn.com</Email>
+      </Contact>
+      <Address BusLines= "10, 54">
+         <Number>401</Number>
+         <Street>7th Avenue 33rd St.</Street>
+         <City>New York</City>
+         <Zip>10001</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="***">
+      <Name>The Edison Hotel</Name>
+      <Contact>
+         <Phone>(212) 840-5000</Phone>
+         <Email>contact@edison.com</Email>
+      </Contact>
+      <Address BusLines= "2">
+         <Number>228</Number> 
+         <Street>W 47th St</Street>
+         <City>New York</City>
+         <Zip>10036</Zip>
+      </Address>
+   </Hotel>
+   <Hotel Stars="*****">
+      <Name>The Ritz-Carlton</Name>
+      <Contact>
+         <Phone>(415) 296-7465</Phone>
+         <Email>contact@ritz-carlton.com</Email>
+      </Contact>
+      <Address>
+         <Number>600</Number>
+         <Street>Stockton St.</Street>
+         <City>San Francisco</City>
+         <Zip>94108</Zip>
+      </Address>
+   </Hotel>
+     <Hotel Stars="***">
+      <Name>Parc 55 WYNDHAM</Name>
+      <Contact>
+         <Phone>415-392-8000</Phone>
+         <Email>contact@parc55hotel.com</Email>
+      </Contact>
+      <Address>
+         <Number>55</Number>
+         <Street>Cyril Magnin St.</Street>
+         <City>San Francisco</City>
+         <Zip>94102</Zip>
+      </Address>
+   </Hotel>
+</Hotels>
